@@ -36,6 +36,7 @@ from .api.each import each
 from .api.filter import filter
 from .api.flat_map import flat_map
 from .api.from_iterable import from_iterable
+from .api.key_map import key_map
 from .api.map import map
 from .api.ordered import ordered
 from .api.run import run

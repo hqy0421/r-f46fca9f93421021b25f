@@ -28,6 +28,7 @@ nav:
           filter: api/thread/filter.md
           flat_map: api/thread/flat_map.md
           from_iterable: api/thread/from_iterable.md
+          key_map: api/thread/key_map.md
           map: api/thread/map.md
           ordered: api/thread/ordered.md
           run: api/thread/run.md
